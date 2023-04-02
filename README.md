@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/soribel santos brito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soribel santos brito" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/soribel santos brito](https://www.linkedin.com/in/soribelsb/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soribel santos brito" height="30" width="40" /></a>
 <a href="https://instagram.com/soribel_s.brito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soribel_s.brito" height="30" width="40" /></a>
 </p>
 
