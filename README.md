@@ -1,6 +1,6 @@
 <img src="https://github.com/So-Sori/So-Sori/blob/main/Soribel%20Santos.png"></img>
 <h1 align="center">Hi,👋🏽 I'm Soribel Santos</h1>
-<h3 align="center">FullStack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 - 🌎 I'm from **Dominican Republic**
 
