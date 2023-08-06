@@ -6,7 +6,7 @@
 
 - 🌱 I'm learning **Express,Node.js...and more**
 
-- 🗂️ I'm working on **my Porfolio**
+- 🗂️ See more about me on **<a href="https://proyecto-porfolio.vercel.app" target="blank">Soribel Porfolio</a>**
 
 - 💬 Languajes **Spanish,English**
 
