@@ -35,13 +35,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/>
 </p>
 
-
-<p align="center">
-  &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=so-sori&show_icons=true&locale=en&theme=dark" alt="so-sori" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=so-sori&theme=radical" alt="so-sori" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=so-sori&show_icons=true&locale=en&layout=compact&theme=dark" alt="so-sori" />
-</p>
-
 <h3 align="center">Training track: </h3>
 <p align="center">
   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/673e1a3f5434bf319ace22be?variant=dark&roadmaps=backend%2Cfull-stack%2Cfrontend" alt="roadmap.sh"/></a>
