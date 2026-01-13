@@ -6,7 +6,7 @@
 
 - 🌎 I'm from **Dominican Republic**
 
-- 🌱 I'm learning **React,React Native...and more**
+- 🌱 I'm learning **Django,React Native...and more**
 
 - 🗂️ See more about me on **<a href="https://proyecto-porfolio.vercel.app" target="blank">Soribel's Porfolio</a>**
 
