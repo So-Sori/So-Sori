@@ -1,4 +1,3 @@
-<img src="https://github.com/So-Sori/So-Sori/blob/main/Soribel%20Santos%202024.png"></img>
 <h1 align="center">Hi,👋🏽 I'm Soribel Santos
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/soribelsb)
