@@ -8,7 +8,7 @@
 
 - 🌱 I'm learning **React,React Native...and more**
 
-- 🗂️ See more about me on **<a href="https://proyecto-porfolio.vercel.app" target="blank">Soribel Porfolio</a>**
+- 🗂️ See more about me on **<a href="https://proyecto-porfolio.vercel.app" target="blank">Soribel's Porfolio</a>**
 
 - 💬 Languajes **Spanish,English** (more coming 🌸)
 
